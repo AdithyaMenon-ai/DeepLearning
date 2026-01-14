@@ -1,0 +1,24 @@
+#Media Pipe
+
+    OpenSource FrameWork,...by Google
+
+ #LandMarks,..for simplefy the project
+    
+    #Hand LandMarks,...
+        hand Gestures
+    #face LandMarks,...have all the features will be a face
+        face detection
+    #face mesh,....is having all the coordinates of the face,...so we can do detect emotions,..
+        emotion detection
+    #Pose LandMarks
+        Yoga Pose
+        gym Pose
+    
+
+
+#Hand LandMarks,...
+
+import mediapipe as mp 
+
+mp_hand = mp.solutions.hand
+mp.solutions.drawing.utlis
