@@ -1,0 +1,10 @@
+#OpenCV,.....Computer Vison,...its and opensource CV
+
+    object 
+        detection
+        tracking
+    image preprocessing
+    face detection
+    face RECOGNITION
+
+
