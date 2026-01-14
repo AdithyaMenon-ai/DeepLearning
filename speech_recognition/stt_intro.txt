@@ -1,0 +1,16 @@
+#Speech to text
+
+    voice to text
+
+#libraries
+    pyaudio
+    speechrecognition
+
+
+def speech_txt():
+    r=sr.Recognizer()
+
+    while True:
+        with sr.Microphone() as source:,....(its a class)
+            audio = r.listen(source)
+        print(r.recognize_google(audio))

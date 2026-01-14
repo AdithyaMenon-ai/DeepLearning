@@ -1,0 +1,18 @@
+#Speech Recognition
+
+    text ====> Speech
+    Voice ====> text
+
+
+#Packages,...
+    pyttsx3 - python library for text to speech(tts) convertion
+
+
+#code
+
+import pyttsx3
+txt_sp = pyttsx3.init(),....initialize the tts
+text = input("Enter you'r text :"),...fetch input
+txt_sp.say(text),...(.say,...is an function for tts)
+
+txt_sp.runAndWait(),.....#

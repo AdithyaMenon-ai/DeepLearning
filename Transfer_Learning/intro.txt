@@ -1,0 +1,10 @@
+#Transfer Learning,...
+
+    #CNN,...architcture in Transfer learning
+        input layer
+        c layer
+        pooling layer
+        flatten
+        Fully connected layer
+
+
